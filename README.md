@@ -1,5 +1,5 @@
 # oasis-climatechange-ca
-"OASIS: How to Build Software Solutions for Climate Change" newsletter and article content. Sign up for our newsletter at https://oasis.climatechange.ca and be the first to know!
+"OASIS: Software Solutions for Climate Change Problems" free newsletter and article content. Sign up for our newsletter at https://oasis-service.climatechange.ca and be the first to know!
 
 ## About Deploy Solutions
 Deploy Solutions connects Earth observation data with the needs of organisations and businesses by providing innovative Space Apps - software applications which use data from space. Find out how we can build high quality software for you using an innovative factory approach that meets your requirements while reducing your project risk, cost, and duration.
