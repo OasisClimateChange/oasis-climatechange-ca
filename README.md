@@ -13,4 +13,4 @@ With help from hundreds of people including students, members of the public, non
 
 We are working on a Climate Change Impact Portal (CCIP) prototype that will help overcome the communication gap between Trusted Authorities and citizens – before, during, and after climate change impacts and natural disasters.
 
-Learn more about these unique insights, and get involved, by visiting our site https://fight.climatechange.ca.
+Learn more about these unique insights, and get involved, by visiting our site https://oasis.climatechange.ca.
